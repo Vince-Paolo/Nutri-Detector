@@ -1,4 +1,4 @@
-# NutriVision – Calorie & Nutrition Detector
+# Nutri-Detector – Calorie & Nutrition Detector
 
 A PHP-based Web App that detects food from an uploaded image and estimates its calorie & nutrition content using a Machine Learning library (php-ml).
 
@@ -14,3 +14,4 @@ A PHP-based Web App that detects food from an uploaded image and estimates its c
 https://packagist.org/packages/php-ai/php-ml
 
 ## Installation
+
