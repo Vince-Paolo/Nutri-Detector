@@ -1,0 +1,7 @@
+{
+  "require": {
+    "php-ai/php-ml": "^0.10.0",
+    "clarifai/clarifai-php": "^0.7.0",
+    "clarifai/clarifai-php-grpc": "^11.11" 
+  }
+}
